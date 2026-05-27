@@ -19,3 +19,24 @@ section.page-header {
   background-color: #79c041;
   background-image: linear-gradient(120deg, #333333, #333333);
 }
+
+/* Participant logos: object-fit avoids stretching; sharp on retina when sources are ~2× this box (e.g. 200×160). */
+table.participant-logos {
+  margin: 1em auto;
+  border: 0;
+
+  td {
+    text-align: center;
+    vertical-align: middle;
+    padding: 0.5rem;
+    border: 0;
+  }
+}
+
+img.participant-logo {
+  width: 100px;
+  height: 80px;
+  object-fit: contain;
+  display: block;
+  margin: 0 auto;
+}

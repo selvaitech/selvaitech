@@ -93,10 +93,27 @@ Design Document.
 
 ## Participants
 
-| :---: | :---: | :---: | :---: |
-|![Altice](assets/img/altice.jpg){: width="100px" height="80px"} |![Nokia](assets/img/nokia.jpg){: width="100px" height="80px"} |![Reply](assets/img/reply.png){: width="100px" height="80px"}
-|![FiberCop](assets/img/fibercop.jpg){: width="100px" height="80px"}|![UNH](assets/img/iol.png){: width="100px" height="80px"} |![Vodafone](assets/img/vodafone.png){: width="100px" height="80px"}
-|![Condor](assets/img/Condor.png){: width="100px" height="80px"} |||
+<!-- Logos: use ~200×160px (or larger) sources for sharp display at 100×80 on high-DPI screens. -->
+
+<table class="participant-logos">
+  <tbody>
+    <tr>
+      <td><img class="participant-logo" src="assets/img/altice.jpg" width="100" height="80" alt="Altice" decoding="async" /></td>
+      <td><img class="participant-logo" src="assets/img/nokia.jpg" width="100" height="80" alt="Nokia" decoding="async" /></td>
+      <td><img class="participant-logo" src="assets/img/reply.png" width="100" height="80" alt="Reply" decoding="async" /></td>
+    </tr>
+    <tr>
+      <td><img class="participant-logo" src="assets/img/fibercop.jpg" width="100" height="80" alt="FiberCop" decoding="async" /></td>
+      <td><img class="participant-logo" src="assets/img/iol.png" width="100" height="80" alt="UNH IOL" decoding="async" /></td>
+      <td><img class="participant-logo" src="assets/img/vodafone.png" width="100" height="80" alt="Vodafone" decoding="async" /></td>
+    </tr>
+    <tr>
+      <td><img class="participant-logo" src="assets/img/Condor.png" width="100" height="80" alt="Condor" decoding="async" /></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
 
 How to Get Involved
