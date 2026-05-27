@@ -35,7 +35,7 @@ AI application will set thresholds in a dynamic way. When the smart threshold is
 Below is an example where the threshold is set for the Rx power of a PON transceiver by the algorithm based on an observed pattern, as visualized in the demo UI.
 
 <p align="center">
- <img width="600px" height="300px" src="Dynamic_Threshold_Demo_v2b.png">
+ <img style="max-width: 600px; width: 100%; height: auto;" src="Dynamic_Threshold_Demo_v2b.png">
 </p>
 
 
@@ -43,7 +43,7 @@ The figure below shows the different components involved in the set-up for this 
 
 
 <p align="center">
- <img width="600px" height="300px" src="smart_threshold_demo_v2d.jpg">
+ <img style="max-width: 600px; width: 100%; height: auto;" src="smart_threshold_demo_v2d.jpg">
 </p>
 
 ## IPFIX Simulator

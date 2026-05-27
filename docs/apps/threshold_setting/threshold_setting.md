@@ -60,7 +60,7 @@ Operators can observe metric behavior, threshold evolution, and alarm correlatio
 
 ## UML Class Design
 <p align="center">
- <img width="600px" height="300px" src="UML.png">
+ <img style="max-width: 600px; width: 100%; height: auto;" src="UML.png">
 </p>
 
 
@@ -81,7 +81,7 @@ The ThresholdEntry represents a threshold record including metric identification
 ## Sequence of Operations
 
 <p align="center">
- <img width="600px" height="300px" src="UML_2.png">
+ <img style="max-width: 600px; width: 100%; height: auto;" src="UML_2.png">
 </p>
 
 The Fingerprint Analyzer is triggered by a scheduler that defines how frequently threshold values are recalculated. This scheduler operates independently of real-time metric ingestion and ensures that threshold updates occur at regular, configurable intervals. The scheduling interval is chosen to balance responsiveness to metric behavior changes with system performance considerations.

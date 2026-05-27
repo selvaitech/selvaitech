@@ -23,7 +23,7 @@ Periodically, the Traffic Anomaly Monitor reads recent traffic information from 
 Upon identifying a discrepancy, the Traffic Anomaly Monitor records the detailed findings in OpenSearch. Finally, the Frontend Web (or Visualizer App) retrieves monitoring data and anomaly records from these services, presenting the results graphically for easy understanding.
 
 <p align="center">
- <img width="600px" height="300px" src="traffic classifier_2.png">
+ <img style="max-width: 600px; width: 100%; height: auto;" src="traffic classifier_2.png">
 </p>
 
 

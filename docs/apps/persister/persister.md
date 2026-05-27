@@ -11,7 +11,7 @@ the OB-BAA core.
 
 
 <p align="center">
- <img width="600px" height="300px" src="Persister%20Application%20System%20Integration.png">
+ <img style="max-width: 600px; width: 100%; height: auto;" src="Persister%20Application%20System%20Integration.png">
 </p>
 
 
@@ -123,7 +123,7 @@ graphical representation are shown below:
 ```
 
 <p align="center">
- <img width="600px" height="300px" src="external topology.png">
+ <img style="max-width: 600px; width: 100%; height: auto;" src="external topology.png">
 </p>
 
 ### Alarms

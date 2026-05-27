@@ -94,9 +94,9 @@ Design Document.
 ## Participants
 
 | :---: | :---: | :---: | :---: |
-|![Altice](assets/img/altice.jpg){: width="100px" height="80px"} |![Nokia](assets/img/nokia.jpg){: width="100px" height="80px"} |![Reply](assets/img/reply.png){: width="100px" height="80px"}
-|![FiberCop](assets/img/fibercop.jpg){: width="100px" height="80px"}|![UNH](assets/img/iol.png){: width="100px" height="80px"} |![Vodafone](assets/img/vodafone.png){: width="100px" height="80px"}
-|![Condor](assets/img/Condor.png){: width="100px" height="80px"} |||
+|![Altice](assets/img/altice.jpg){: style="max-width: 140px; max-height: 56px; width: auto; height: auto; object-fit: contain; vertical-align: middle;"} |![Nokia](assets/img/nokia.jpg){: style="max-width: 140px; max-height: 56px; width: auto; height: auto; object-fit: contain; vertical-align: middle;"} |![Reply](assets/img/reply.png){: style="max-width: 140px; max-height: 56px; width: auto; height: auto; object-fit: contain; vertical-align: middle;"}
+|![FiberCop](assets/img/fibercop.jpg){: style="max-width: 140px; max-height: 56px; width: auto; height: auto; object-fit: contain; vertical-align: middle;"}|![UNH](assets/img/iol.png){: style="max-width: 140px; max-height: 56px; width: auto; height: auto; object-fit: contain; vertical-align: middle;"} |![Vodafone](assets/img/vodafone.png){: style="max-width: 140px; max-height: 56px; width: auto; height: auto; object-fit: contain; vertical-align: middle;"}
+|![Condor](assets/img/Condor.png){: style="max-width: 140px; max-height: 56px; width: auto; height: auto; object-fit: contain; vertical-align: middle;"} |||
 
 
 How to Get Involved

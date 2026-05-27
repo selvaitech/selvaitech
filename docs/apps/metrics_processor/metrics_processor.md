@@ -41,7 +41,7 @@ The alarm event is published to a dedicated Kafka topic. Downstream components s
 
 ## Internal Component Responsibilities
 <p align="center">
- <img width="600px" height="300px" src="Untitled Diagram-1767862032785.png">
+ <img style="max-width: 600px; width: 100%; height: auto;" src="Untitled Diagram-1767862032785.png">
 </p>
 
 The MetricProcessor component contains the core processing logic and coordinates metric consumption, threshold retrieval, comparison logic, and alarm state handling.
@@ -59,7 +59,7 @@ The OpenTSDBClient component is responsible for querying OpenTSDB to retrieve dy
 ## Sequence of Operations
 
 <p align="center">
- <img width="600px" height="300px" src="pic_2.png">
+ <img style="max-width: 600px; width: 100%; height: auto;" src="pic_2.png">
 </p>
 
 The sequence begins when the Metric Processor receives or is ready to process a metric sample. As part of evaluating this metric, the Metric Processor first needs to determine the threshold that applies to the metric instance.

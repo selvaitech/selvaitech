@@ -20,7 +20,7 @@ Below figure shows the 2025 Network-X OB-CAS Innovation Demo set-up where at the
 the Condor Technologies' traffic classification app was demoed.
 
 <p align="center">
- <img width="600px" height="300px" src="smart_threshold_demo.jpg">
+ <img style="max-width: 600px; width: 100%; height: auto;" src="smart_threshold_demo.jpg">
 </p>
 
 

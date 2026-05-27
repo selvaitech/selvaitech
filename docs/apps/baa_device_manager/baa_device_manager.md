@@ -12,25 +12,25 @@ Its internal operation is straightforward. The OB-BAA device manager UI app
 * parses the response and populate the information in UI representation (streamlit).
 
 <p align="center">
- <img width="600px" height="300px" src="image-2024-4-5_15-45-47_device_manger_ui.png">
+ <img style="max-width: 600px; width: 100%; height: auto;" src="image-2024-4-5_15-45-47_device_manger_ui.png">
 </p>
 
 Shown below are some screenshot from the UI environment:
 
 <p align="center">
- <img width="600px" height="300px" src="image-2024-4-5_15-55-19_Device_manager_ui_example1.png">
+ <img style="max-width: 600px; width: 100%; height: auto;" src="image-2024-4-5_15-55-19_Device_manager_ui_example1.png">
 </p>
 
 <p align="center">
- <img width="600px" height="300px" src="image-2024-4-5_15-55-19_Device_manager_ui_example2.png">
+ <img style="max-width: 600px; width: 100%; height: auto;" src="image-2024-4-5_15-55-19_Device_manager_ui_example2.png">
 </p>
 
 <p align="center">
- <img width="600px" height="300px" src="image-2024-4-5_15-55-19_Device_manager_ui_example3.png">
+ <img style="max-width: 600px; width: 100%; height: auto;" src="image-2024-4-5_15-55-19_Device_manager_ui_example3.png">
 </p>
 
 <p align="center">
- <img width="600px" height="300px" src="image-2024-4-5_15-55-19_Device_manager_ui_example4.png">
+ <img style="max-width: 600px; width: 100%; height: auto;" src="image-2024-4-5_15-55-19_Device_manager_ui_example4.png">
 </p>
 
 <a id="env" />

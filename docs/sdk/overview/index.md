@@ -47,7 +47,7 @@ The figure below shows the app realized through its business logic running on to
 
 
 <p align="center">
- <img width="600px" height="300px" src="Picture1_Overview.png">
+ <img style="max-width: 600px; width: 100%; height: auto;" src="Picture1_Overview.png">
 </p>
 
 

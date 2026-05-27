@@ -13,7 +13,7 @@ The application ensures reliable persistence, real-time alarm handling, and prop
 
 
 <p align="center">
- <img width="600px" height="300px" src="Untitled%20Diagram-1768311927833_3.png">
+ <img style="max-width: 600px; width: 100%; height: auto;" src="Untitled%20Diagram-1768311927833_3.png">
 </p>
 
 The Persistency Application v2 uses an event-driven architecture to persist metrics and manage alarm lifecycles.

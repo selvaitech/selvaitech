@@ -80,7 +80,7 @@ The module bbf-xponvani defines a set of defects applicable to v-ANIs. Each time
 
 
 <p align="center">
- <img width="600px" height="300px" src="PON_sim_1.png">
+ <img style="max-width: 600px; width: 100%; height: auto;" src="PON_sim_1.png">
 </p>
 
 
@@ -133,7 +133,7 @@ Other defects include:  lobi, tiwi, dfi, lopci, looci, dowi, sfi, sdi, lcdgi, rd
 Whenever an OLT detects a change of state an ONU, an "onu-presence-state-change" notification is sent. This notification is defined by bbf-xpon-onu-state.yang
 
 <p align="center">
- <img width="600px" height="300px" src="PON_sim_2.png">
+ <img style="max-width: 600px; width: 100%; height: auto;" src="PON_sim_2.png">
 </p>
 
 Some examples:
@@ -187,7 +187,7 @@ The following table shows a possible mapping between the ONU state received in t
 
 
 <p align="center">
- <img width="600px" height="300px" src="table_notifications_alarms.PNG">
+ <img style="max-width: 600px; width: 100%; height: auto;" src="table_notifications_alarms.PNG">
 </p>
 Table : Mapping "ONU state change notification" to equivalent  raise/clear of "ONU not operational on OLT" internal alarm
 

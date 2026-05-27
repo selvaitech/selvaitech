@@ -16,7 +16,7 @@ When no correlations or alarms are selected then the elements are shown with its
 
 
 <p align="center">
- <img width="600px" height="300px" src="image-2024-10-7_9-22-52_Alarm_Corr_Visualizer.png">
+ <img style="max-width: 600px; width: 100%; height: auto;" src="image-2024-10-7_9-22-52_Alarm_Corr_Visualizer.png">
 </p>
 
 
@@ -30,7 +30,7 @@ The Column "Show in map" allows to select a correlation and mark the devices and
 
 
 <p align="center">
- <img width="600px" height="300px" src="image-2024-10-7_9-22-52_Alarm_Corr_Visualizer_2.png">
+ <img style="max-width: 600px; width: 100%; height: auto;" src="image-2024-10-7_9-22-52_Alarm_Corr_Visualizer_2.png">
 </p>
 
 ### Alarms
@@ -41,7 +41,7 @@ The data is obtained from the opensearch "obcas-active-alarms" index. The Visual
 The Column "Show in map" allows to select an alarm and mark the device in the topology map with 
 a dark red color. 
 <p align="center">
- <img width="600px" height="300px" src="image-2024-10-7_9-22-52_Alarm_Corr_Visualizer_3.png">
+ <img style="max-width: 600px; width: 100%; height: auto;" src="image-2024-10-7_9-22-52_Alarm_Corr_Visualizer_3.png">
 </p>
 
 

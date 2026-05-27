@@ -33,14 +33,14 @@ The figure below depicts high level how the alarm correlator functions.
 
 
 <p align="center">
- <img width="600px" height="300px" src="Alarm%20Correlation%20Application%20Arch.png">
+ <img style="max-width: 600px; width: 100%; height: auto;" src="Alarm%20Correlation%20Application%20Arch.png">
 </p>
 
 The figure below shows how the Alarm Correlation App integrates within the OB-CAS sandbox showing also the persister application.
 
 
 <p align="center">
- <img width="600px" height="300px" src="Alarm%20Correlation%20Application.png">
+ <img style="max-width: 600px; width: 100%; height: auto;" src="Alarm%20Correlation%20Application.png">
 </p>
 
 ### Alarm correlation output examples

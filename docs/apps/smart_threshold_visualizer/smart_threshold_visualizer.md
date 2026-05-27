@@ -8,7 +8,7 @@ This section acts as the main dashboard where one can add ONTs and select the sp
 dynamically calculated threshold, an alarm indicator will be displayed directly on the corresponding device shown in this section.
 
 <p align="center">
- <img width="600px" height="300px" src="pic1.png">
+ <img style="max-width: 600px; width: 100%; height: auto;" src="pic1.png">
 </p>
 
 ## Metrics configuration
@@ -16,7 +16,7 @@ For each added ONT, one
 can individually configure and select the specific metrics one wishes to observe and analyze within the application.
 
 <p align="center">
- <img width="600px" height="300px" src="pic2.png">
+ <img style="max-width: 600px; width: 100%; height: auto;" src="pic2.png">
 </p>
 
 ## Analytics
@@ -25,7 +25,7 @@ that the device is exporting alongside
 its corresponding dynamic thresholds, allowing for a clear visual comparison between actual behavior and dynamically set thresholds.
 
 <p align="center">
- <img width="600px" height="300px" src="pic3.png">
+ <img style="max-width: 600px; width: 100%; height: auto;" src="pic3.png">
 </p>
 
 ## Historical Alarms
@@ -33,7 +33,7 @@ This section contains a record of the alarms that have been triggered for a spec
 Each logged alarm represents a metric where the value exceeded the dynamically established threshold.
 
 <p align="center">
- <img width="600px" height="300px" src="pic4.png">
+ <img style="max-width: 600px; width: 100%; height: auto;" src="pic4.png">
 </p>
 
 
